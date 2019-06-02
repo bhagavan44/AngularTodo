@@ -6,6 +6,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Production server
+[![Netlify Status](https://api.netlify.com/api/v1/badges/70cb3144-6e39-492d-b310-241e14873ba6/deploy-status)](https://app.netlify.com/sites/eager-wozniak-2c90fb/deploys)
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
